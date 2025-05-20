@@ -6,7 +6,7 @@ Answer questions correctly to deal damage, earn coins, and progress, all while r
 
 Perfect for practicing math, tracking student progress, or just enjoying a creative twist on learning!
 
-![Main Menu Screenshot](Images/Sign-In.png)
+![Main Menu Screenshot](Images/Login.png) ![Main Menu Screenshot](Images/Main-Menu.png)
 ---
 
 ## Features
