@@ -6,12 +6,13 @@ Answer questions correctly to deal damage, earn coins, and progress, all while r
 
 Perfect for practicing math, tracking student progress, or just enjoying a creative twist on learning!
 
+![Main Menu Screenshot](Images/Sign-In.png)
 ---
 
-### 📦 Features
+## Features
 
 * 🧑‍🎓 **Student Accounts**: Regular gameplay experience, track progress, earn coins, buy items.
-* 👩‍🏫 **Teacher Accounts**: Add student usernames, view their progress.
+* 👩‍🏫 **Teacher Accounts**: Add student usernames, view their progress and all student account featues.
 * 👨‍💻 **Developer Account**: Debug and test game functionalities (creator access only).
 * ⚔️ **Combat-Style Learning**: Answer math questions to deal damage; wrong answers cause damage to the player.
 * 🌍 **5 Math Worlds**:
@@ -20,7 +21,7 @@ Perfect for practicing math, tracking student progress, or just enjoying a creat
   * Subtraction
   * Multiplication
   * Division
-  * Final Boss World (Mixed)
+  * Final Level (Mixed)
 * 🪙 **Coin System**: Earn coins by completing levels. Spend coins in the shop to buy helpful items.
 * 📊 **Leaderboard**: Tracks local progress.
 * 🎮 **Game Options**: New Game, Load Saved Game, Shop, Leaderboard, Tutorial.
@@ -28,7 +29,7 @@ Perfect for practicing math, tracking student progress, or just enjoying a creat
 
 ---
 
-### 🛠️ How to Run
+## How to Run
 
 1. **Clone or Download the Repository**.
 2. **Open Terminal or Command Prompt** in the project folder.
@@ -42,14 +43,13 @@ Perfect for practicing math, tracking student progress, or just enjoying a creat
 
 ---
 
-### 📁 File Structure
+## File Structure
 
 > All files are located inside the `Code/` folder. No subdirectories.
 
 #### Source Files
 
-* `Main.java`: Entry point of the game.
-* Other game logic files (e.g., `Shop.java`, `CombatEngine.java`, etc.).
+* `main.java`: Entry point of the game.
 
 #### CSV Files (Stored outside the JAR in the same folder)
 
@@ -64,21 +64,21 @@ Perfect for practicing math, tracking student progress, or just enjoying a creat
 
 ---
 
-### 🧪 Known Issues
+## Known Issues
 
 * When exported as a `.jar`, all `.csv` files must **remain outside the jar** and be in the **same folder** as the executable.
 * CSV files can be manually edited without running the game — this is currently not restricted.
 
 ---
 
-### 🖥️ Requirements
+## Requirements
 
 * Java JDK 8 or higher
 * Cross-platform: works on Windows, macOS, and Linux (as long as Java is installed)
 
 ---
 
-### 📌 Notes
+## Notes
 
 * Made entirely in **Java** using **Eclipse**.
 * Data persistence is handled through **CSV files** (no database).
@@ -86,18 +86,8 @@ Perfect for practicing math, tracking student progress, or just enjoying a creat
 
 ---
 
-### 📃 License
+## Credits
 
-> No license specified yet. (You can let me know if you'd like to use one like MIT or GPL.)
-
----
-
-### 🙌 Credits
-
-* Game developed by: *\[Your Name or Team Name]*
-* Special thanks to: Eclipse IDE, Java community.
-
----
-Here's a clean and combined version of the introduction for your README, merging all the parts you provided:
+* Game developed by: Samuel Angarita, Manuel Saldivar, Matthew Nazaruk, Cole Husar, Leonardo Colabrese. 
 
 ---
