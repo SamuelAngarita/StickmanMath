@@ -117,7 +117,7 @@ All rights reserved.
 
 This project and its source code are protected by copyright and may **not** be copied, modified, distributed, published, or used for commercial purposes without **explicit written permission** from the authors.
 
-> Unauthorized use, reproduction, or sale of this game — including any of its code, assets, or design — is strictly prohibited and may result in legal action.
+> Unauthorized use, reproduction, or sale of this game, including any of its code, assets, or design, is strictly prohibited and may result in legal action.
 
 If you are interested in using this project for educational, showcase, or collaborative purposes, please contact the authors directly.
 
